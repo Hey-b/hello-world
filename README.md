@@ -1,4 +1,4 @@
 # hello-world
 hello world!
 
-this first code
+this is the first code
